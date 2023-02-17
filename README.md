@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Andy
-- 👀 I’m a data journalist interested in data science and data analysis
+- 👀 I’m a data journalist interested in data science, data analysis, data viz, AI and machine learning
 - 🌱 I’m currently learning git and machine learning
-- 💞️ I’m looking to collaborate on interesting data scice projects
 - 📫 How to reach me andyfyers@gmail.com
 
 <!---
